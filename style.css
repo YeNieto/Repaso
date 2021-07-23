@@ -1,5 +1,6 @@
 table {
     font-family: arial, sans-serif;
+    background-color: #11e0e0;
     border-collapse: collapse;
     width: 70%;
   }
@@ -9,14 +10,3 @@ table {
     text-align: left;
     padding: 8px;
   }
-  
-  tr:nth-child(even) {
-    background-color: #11e0e0;
-  }
-  
-tr:nth-child(even) {
-  background-color: #11e0e0;
-}
-tr:nth-child(even) {
-  background-color: #11e0e0;
-}
